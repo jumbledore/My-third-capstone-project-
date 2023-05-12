@@ -19,7 +19,7 @@ I have learnt how to use Powerbi to help present data. Powerbi is a powerful too
 
 Inclusion of new columns to present whether or not a customer is subscribed to a particular service in 1 and 0 so that it is able to count. Orignial data present the data in 'Yes' and 'No'. 
 
-#### Conclusions drawn from data
+#### Observations drawn from data
 - Customers with dependents are more likely to subscribe to 2 year data plan
 - Majority of customers are subsrcibed to our servicces on a month to month basis.
 - Majority of ustomers that churn in San Diego are due to better services/products from competitor. When compared to churn reasons to other cities where majority of the churn is a result of poor attiude from support staff. Strongly suggest that there is a new competitor in San Diego.
