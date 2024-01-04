@@ -13,17 +13,17 @@ A fictional telco company that provided home phone and Internet services to 7043
 
 #### What you learned
 
-I have learnt how to use Powerbi to help present data. Powerbi is a powerful tool compared to excel as i am able to clean data in a more hassle free way and also the ability to drill through allows more flexibility and better efficiency in allowing my stakeholders to obtain the data they so require.
+I have learnt how to use Powerbi to help present data. Powerbi is a powerful tool compared to excel as i am able to clean data in a more hassle free way and also the ability to drill through allows more flexibility and better efficiency in allowing my stakeholders to obtain the data required.
 
 #### Edits made to raw data set
 
-Inclusion of new columns to present whether or not a customer is subscribed to a particular service in 1 and 0 so that it is able to count. Orignial data present the data in 'Yes' and 'No'. 
+Included new column to present whether or not a customer is subscribed to a particular service as 1 (Yes) and 0 (No). 
 
 #### Observations drawn from data
-- Customers with dependents are more likely to subscribe to 2 year data plan
-- Majority of customers are subsrcibed to our servicces on a month to month basis.
-- Majority of ustomers that churn in San Diego are due to better services/products from competitor. When compared to churn reasons to other cities where majority of the churn is a result of poor attiude from support staff. Strongly suggest that there is a new competitor in San Diego.
-- Majority of customers that newly joined are from Los Angeles. Customers that chrun in Los Angles is proportional to customers that churn in other citities. This suggest that the reason for joining might not be due to better services/products but rather through better marketing.
+- Customers with dependents are more likely to subscribe to a 2 year data plan.
+- Majority of customers are on a monthly subscription basis.
+- Majority of customers that churn in San Diego are due to better services/products from competitor; data strongly suggests there is a new competitior.
+- Majority of customers that newly joined are from Los Angeles. Customers that chrun in Los Angles is proportionally equivalent to customers that churn in other cities; reason for joining might not be due to better services/products but might be a result of better marketing.
 
 
 [Link to LinkedIn](https://www.linkedin.com/in/jeremy-tay-116124139/)
